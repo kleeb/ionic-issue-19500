@@ -1,0 +1,1 @@
+# ionic-issue-19500
